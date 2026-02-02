@@ -1,0 +1,72 @@
+    "T-001", "VPN keeps disconnecting every 10 minutes on Windows 11 after latest update", "network"
+    "T-002", "Password reset link is expired and user cannot login to the portal", "auth"
+    "T-003", "Email delivery delayed, outbound messages queued for hours", "messaging"
+    "T-004", "Cannot install printer driver, installer fails with error code 1603", "device"
+    "T-005", "MFA prompt never arrives on mobile app, user stuck at login", "auth"
+    "T-006", "WiFi signal drops in meeting rooms, access point reboot helps temporarily", "network"
+    "T-007", "Outlook search not returning results, index seems corrupted", "messaging"
+    "T-008", "Laptop battery drains fast after BIOS update, power settings unchanged", "device"
+    "T-009", "Portal shows 500 error when submitting form, happened after deployment", "app"
+    "T-010", "API requests timing out, latency spike observed in last hour", "app"
+    "T-011", "User cannot access shared drive, permission denied though in correct group", "auth"
+    "T-012", "Teams calls have choppy audio, jitter high on corporate network", "network"
+    "T-013", "Push notifications not working on Android for the app", "app"
+    "T-014", "Mailbox is full and cannot receive emails, auto-archive not running", "messaging"
+    "T-015", "Bluetooth mouse not pairing after restart, device shows as unknown", "device"
+    "T-016", "VPN client fails to start on macOS after OS upgrade, error says configuration missing", "network"
+    "T-017", "User locked out after multiple failed login attempts, account not auto-unlocking", "auth"
+    "T-018", "Emails sent to external domains bouncing with SPF failure", "messaging"
+    "T-019", "Docking station not detecting external monitors after firmware update", "device"
+    "T-020", "Single sign-on loops back to login page repeatedly for some users", "auth"
+    "T-021", "Network file transfer extremely slow during peak hours", "network"
+    "T-022", "Calendar invites not syncing between Outlook and mobile devices", "messaging"
+    "T-023", "Web application loads blank page in Safari but works in Chrome", "app"
+    "T-024", "Laptop overheating and fan running constantly after driver update", "device"
+    "T-025", "Background job stuck in pending state, queue length growing steadily", "app"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
